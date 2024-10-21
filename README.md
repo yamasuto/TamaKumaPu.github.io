@@ -1,2 +1,4 @@
-# TamaKumaPu
-TAMA KUMA public repository
+# Tama Kuma public
+
+Tama kuma stickers desctiptions
+
