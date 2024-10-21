@@ -1,6 +1,6 @@
 # Tama Kuma
 
-Tama kuma stickers desctiptions
+Tama kuma stickers descriptions
 
 ## R.01
 
